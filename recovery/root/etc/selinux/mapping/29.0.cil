@@ -1,0 +1,3 @@
+(typeattributeset demo_type_29_0 (demo_type))
+(expandtypeattribute (demo_type_29_0) true)
+(typeattribute demo_type_29_0)
